@@ -8,7 +8,7 @@ I have also some knolwedge in economics with a specialisation in applied econome
 
 ### Hobbies
 - I play handball 🤾‍♂️ competitvely at university and love sports in general
-- I do trading using technical analysis and AI in order to predict commodities movement 📈 through the broker FxPro using a real account  
+- I do trading using technical analysis and AI in order to predict commodities movement 📈 using the broker FxPro using a real account  
 - On top of my studies in Data science, I am really enthusiastic about how AI 🤖 is changing our daily lives and cannot wait to share my work with you !!! 
 
 
