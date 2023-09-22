@@ -1,7 +1,7 @@
 
 ### Hi there 👋, I'm Mamoune El Boukfaoui
 I am an integrated master student in Mathematics and Economics at Durham University majoring in Mathematics 🎓 . More specifically, my academic studies are focused on the areas of: probabilistic machine learning, advanced deep learning and probability.
-I have also some knolwedge in economics with a specialisation in applied econometrics.
+I have also an understanding of economics with a specialisation in applied econometrics.
 
 
 ### Skills and Experience
