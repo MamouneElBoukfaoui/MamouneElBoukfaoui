@@ -1,5 +1,4 @@
-
-#<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
   <title>Mamoune El Boukfaoui's Presentation</title>
@@ -35,7 +34,10 @@
 <body>
   <div class="container">
     <h1>Hi there 👋, I'm Mamoune El Boukfaoui</h1>
-    <h3>I am an integrated master student in Mathematics and Economics at Durham University majoring in Mathematics 🎓. More specifically, my academic studies are focused on the areas of: probabilistic machine learning, advanced deep learning, and probability. I also have an understanding of economics with a specialization in applied econometrics.</h3>
+
+    <p>
+      I am an integrated master student in Mathematics and Economics at Durham University majoring in Mathematics 🎓. More specifically, my academic studies are focused on the areas of: probabilistic machine learning, advanced deep learning, and probability. I also have an understanding of economics with a specialization in applied econometrics.
+    </p>
 
     <h3>Skills and Experience</h3>
     <ul>
