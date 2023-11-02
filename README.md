@@ -2,7 +2,7 @@
 <html>
 <head>
   <!-- Add your meta tag here -->
-  <meta name="google-site-verification" content="fWVvorR-TcEGdKp_QYNsmI6JzOMDg4v4guc18058Kgc" />
+  <meta name="google-site-verification" content="fWVvorR-TcEGdKp_QYNsmI6JzOMDg4v4guc18058Kgc"/>
 
   <!-- The rest of your HTML code remains the same -->
 </head>
