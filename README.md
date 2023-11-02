@@ -1,14 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <!-- Add your meta tag here -->
-  <meta name="google-site-verification" content="fWVvorR-TcEGdKp_QYNsmI6JzOMDg4v4guc18058Kgc" />
+<!DOCTYPE HTML> 
 
-  <!-- The rest of your HTML code remains the same -->
-</head>
-<body>
-  <div class="container">
-    <h1>Hi there 👋, I'm Mamoune El Boukfaoui</h1>
+<html>
+  <head>
+      <!-- Add your meta tag here -->
+      <meta name="google-site-verification" content="fWVvorR-TcEGdKp_QYNsmI6JzOMDg4v4guc18058Kgc" />
+    
+  </head>
+    <body>
+      <div class="container">
+        <h1>Hi there 👋, I'm Mamoune El Boukfaoui</h1>
 
     
       I am an integrated master student in Mathematics and Economics at Durham University majoring in Mathematics 🎓. More specifically, my academic studies are focused on the areas of: probabilistic machine learning, advanced deep learning, and probability. I also have an understanding of economics with a specialization in applied econometrics.
