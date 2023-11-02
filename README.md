@@ -7,14 +7,18 @@
       font-family: Arial, sans-serif;
       background-color: #f2f2f2;
       text-align: center;
+      padding: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
     }
     .container {
       max-width: 800px;
-      margin: 0 auto;
-      padding: 20px;
       background-color: #fff;
       border-radius: 5px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      padding: 20px;
     }
     h1 {
       color: #333;
@@ -52,5 +56,8 @@
       <li>On top of my studies in Data science, I am really enthusiastic about how AI 🤖 is changing our daily lives and cannot wait to share my work with you !!!</li>
     </ul>
   </div>
+</body>
+</html>
+
 </body>
 </html>
