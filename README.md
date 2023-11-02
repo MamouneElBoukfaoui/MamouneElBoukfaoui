@@ -2,11 +2,10 @@
 
 <html>
   <head>
-      <!-- Add your meta tag here -->
-      <meta name="google-site-verification" content="fWVvorR-TcEGdKp_QYNsmI6JzOMDg4v4guc18058Kgc" />
+        <meta name="google-site-verification" content="fWVvorR-TcEGdKp_QYNsmI6JzOMDg4v4guc18058Kgc" />
     
   </head>
-    <body>
+      <body>
       <div class="container">
         <h1>Hi there 👋, I'm Mamoune El Boukfaoui</h1>
 
